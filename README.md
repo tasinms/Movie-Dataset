@@ -15,7 +15,7 @@ A Movie Dataset Created Through Web Scraping Using BeautifulSoup
 * [3_Dataset_Creation.ipynb](https://github.com/tasinms/Wikipedia-Movie-Dataset/blob/master/3_Dataset_Creation.ipynb)
   * Did Miscellaneous Cleaning On The Data
   * Added *Box Office Status* Column
-  * Added Release Year Column
+  * Added *Release Year* Column
 
 * [4_Dataset_Analysis.ipynb](https://github.com/tasinms/Wikipedia-Movie-Dataset/blob/master/4_Dataset_Analysis.ipynb)
   * Preliminary Analysis Of The Data
@@ -23,4 +23,4 @@ A Movie Dataset Created Through Web Scraping Using BeautifulSoup
 * [WikipediaMovieDatasetFinalNew.csv](https://github.com/tasinms/Wikipedia-Movie-Dataset/blob/master/WikipediaMovieDatasetFinalNew.csv)
   * Final Dataset
 
-<img align="right" src="https://i.imgur.com/vFb1T8l.png" alt="Logo" style="width:250px;">
+<img align="right" src="https://i.imgur.com/vFb1T8l.png" alt="Logo" style="width:200px;">
