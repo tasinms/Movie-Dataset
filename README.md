@@ -23,4 +23,10 @@ A Movie Dataset Created Through Web Scraping Wikipedia Using BeautifulSoup
 * [WikipediaMovieDatasetFinalNew.csv](https://github.com/tasinms/Wikipedia-Movie-Dataset/blob/master/WikipediaMovieDatasetFinalNew.csv)
   * Final Dataset
 
+<br />
+
+<br />
+
+<br />
+
 <img align="right" src="https://i.imgur.com/vFb1T8l.png" alt="Logo" style="width:200px;">
